@@ -1,0 +1,21 @@
+[
+	{ "room": "r2001", "status": "free" },
+	{ "room": "r2002", "status": "free" },
+	{ "room": "r2003", "status": "taken" },
+	{ "room": "r2004", "status": "free" },
+	{ "room": "r2005", "status": "taken" },
+	{ "room": "r2006", "status": "free" },
+	{ "room": "r2007", "status": "free" },
+	{ "room": "r2008", "status": "taken" },
+	{ "room": "r2009", "status": "taken" },
+	{ "room": "r2010", "status": "taken" },
+	{ "room": "r2011", "status": "free" },
+	{ "room": "r2012", "status": "taken" },
+	{ "room": "r2013", "status": "taken" },
+	{ "room": "r2014", "status": "free"  },
+	{ "room": "r2015", "status": "taken" },
+	{ "room": "r2016", "status": "taken" },
+	{ "room": "r2017", "status": "free" },
+	{ "room": "r2018", "status": "free" },
+	{ "room": "r2019", "status": "taken" }
+]
